@@ -1,0 +1,5 @@
+*.DS_Store
+*.pyc
+
+/app/static/js/build/
+/app/static/js/node_modules/
