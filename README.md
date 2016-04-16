@@ -4,7 +4,7 @@ Instructions for setup:
 1. `git clone https://github.com/mskeving/classy-cam`
 2. `cd classy-cam/`
 3. `pip install virtualenv` (if you don't already have it)
-4. mkvirtualenv classy
+4. `virtualenv env`
 5. `pip install -r requirements.txt`
 6. `cd app/static/js`
 7. `npm install`
