@@ -11,8 +11,8 @@ export class PageContainer extends Component {
 	render() {
 		return (
 			<div>
-				<CustomComponent message="Classy Ultimate" />
+				<CustomComponent message="Your new app" />
 			</div>
-		)	
+		)
 	}
 }
