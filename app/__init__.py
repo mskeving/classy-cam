@@ -2,7 +2,7 @@ from flask import Flask
 from flask.ext.sqlalchemy import SQLAlchemy
 
 # this needs to be here to run scripts. shrug.
-SQLALCHEMY_DATABASE_URI = "postgresql://localhost:5432/loady"
+SQLALCHEMY_DATABASE_URI = "postgresql://localhost:5432/NAME_OF_DB"
 
 app = Flask(__name__, template_folder='static/templates')
 app.config.from_object(__name__)
