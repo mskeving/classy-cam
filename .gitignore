@@ -1,7 +1,5 @@
 *.DS_Store
 *.pyc
 
-env/
-
 /app/static/js/build/
 /app/static/js/node_modules/
